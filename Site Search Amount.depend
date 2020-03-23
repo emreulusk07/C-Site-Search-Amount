@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1574018251 source:c:\users\emre uluýþýk\desktop\vize Çalýþma ornegi (bl arama motoru)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<time.h>
+
